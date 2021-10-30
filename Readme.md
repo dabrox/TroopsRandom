@@ -48,7 +48,4 @@ This will response a structure data as:
 * If do you want add more troops, modify the models/troopsType.js
 
 
-## Autores ✒️
-
-
-* **Daniel Sifontes**  - [dabrox](https://github.com/dabrox)
+**Daniel Sifontes**  - [dabrox](https://github.com/dabrox)
